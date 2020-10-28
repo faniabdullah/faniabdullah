@@ -11,13 +11,16 @@ Hi there, my name is Fani Abdullah, and also known as fani,
 Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. 
 I'm a College Students .
 <br />
-📖 I’m currently learning NodeJS & ReactJS & Kotlin <br />
-💬 Feel free to ask me about anything and everything! <br />
-📫 How to reach me: You may follow me on LinkedIn, Instagram .<br />
-What i'm currently working on:
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning NodeJS & ReactJS & Kotlin
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: You may follow me on LinkedIn, Instagram [@fabduul](https://www.instagram.com/fabduul/);
+- What i'm currently working on:
 
 ## My personal website coming soon!
-
 <!--
 **faniabdullah/faniabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
