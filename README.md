@@ -1,4 +1,4 @@
-### Hi there , my name is fani abdullah, usually called Fan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/fani-abdullah/">
   <img align="left" alt="Fani Abdullah LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,6 +7,15 @@
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+Hi there, my name is Fani Abdullah, and also known as fani, 
+Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. I'm a College Students .
+
+📖 I’m currently learning NodeJS & ReactJS
+💬 Feel free to ask me about anything and everything!
+📫 How to reach me: You may follow me on LinkedIn, Instagram .
+What i'm currently working on:
+
+My personal website coming soon!
 
 <!--
 **faniabdullah/faniabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
