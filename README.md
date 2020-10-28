@@ -15,7 +15,7 @@ I'm a College Students at STMIK Tasikmalaya
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning NodeJS & ReactJS & Laravel
+- 🌱 I’m currently learning NodeJS,ReactJS & Laravel
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: You may follow me on LinkedIn, Instagram [@fabduul](https://www.instagram.com/fabduul/);
 - What i'm currently working on: My personal website coming soon!
