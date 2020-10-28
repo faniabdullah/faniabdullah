@@ -18,9 +18,7 @@ I'm a College Students .
 - 🌱 I’m currently learning NodeJS & ReactJS & Kotlin
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: You may follow me on LinkedIn, Instagram [@fabduul](https://www.instagram.com/fabduul/);
-- What i'm currently working on:
-
-## My personal website coming soon!
+- What i'm currently working on: My personal website coming soon!
 <!--
 **faniabdullah/faniabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
