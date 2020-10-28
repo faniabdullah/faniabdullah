@@ -6,16 +6,17 @@
 <a href="https://www.instagram.com/fabduul/">
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br />
 Hi there, my name is Fani Abdullah, and also known as fani, 
-Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. I'm a College Students .
-
-📖 I’m currently learning NodeJS & ReactJS
-💬 Feel free to ask me about anything and everything!
-📫 How to reach me: You may follow me on LinkedIn, Instagram .
+Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. 
+I'm a College Students .
+<br />
+📖 I’m currently learning NodeJS & ReactJS<br />
+💬 Feel free to ask me about anything and everything!<br />
+📫 How to reach me: You may follow me on LinkedIn, Instagram .<br />
 What i'm currently working on:
 
-My personal website coming soon!
+## My personal website coming soon!
 
 <!--
 **faniabdullah/faniabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
