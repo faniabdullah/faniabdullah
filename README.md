@@ -8,7 +8,7 @@
 </a>
 <br /> <br />
 Hi there, my name is Fani Abdullah, and also known as fani, 
-Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. 
+Front-end Developer, Back end Developer, and VR/AR Enthusiast from Indonesia. 
 I'm a College Students at STMIK Tasikmalaya
 <br />
   
