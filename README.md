@@ -7,12 +7,12 @@
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br /> <br />
-## Hi there, my name is Fani Abdullah, and also known as fani, 
+Hi there, my name is Fani Abdullah, and also known as fani, 
 Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. 
 I'm a College Students .
 <br />
-📖 I’m currently learning NodeJS & ReactJS<br />
-💬 Feel free to ask me about anything and everything!<br />
+📖 I’m currently learning NodeJS & ReactJS & Kotlin <br />
+💬 Feel free to ask me about anything and everything! <br />
 📫 How to reach me: You may follow me on LinkedIn, Instagram .<br />
 What i'm currently working on:
 
