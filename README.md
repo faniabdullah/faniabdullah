@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/fabduul/">
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
-Hi there, my name is Fani Abdullah, and also known as fani, 
+<br /> <br />
+## Hi there, my name is Fani Abdullah, and also known as fani, 
 Front-end Developer, Animation, and VR/AR Enthusiast from Indonesia. 
 I'm a College Students .
 <br />
