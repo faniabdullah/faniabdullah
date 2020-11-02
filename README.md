@@ -9,8 +9,8 @@
 <br /> <br />
 Hi there, my name is Fani Abdullah, and also known as fani, 
 Front-end Developer and VR/AR Enthusiast from Indonesia. 
-and currently I'm interested in learning more about backend developers but after I learned ReachJS & NodeJS hehe
-I'm a College Students at STMIK Tasikmalaya
+and currently I'm interested in learning more about backend developers but after I learned ReachJS & NodeJS hehe. 
+Btw I'm a College Students at STMIK Tasikmalaya
 <br />
   
 **Talking about Personal Stuffs:**
