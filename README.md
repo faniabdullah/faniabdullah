@@ -8,14 +8,15 @@
 </a>
 <br /> <br />
 Hi there, my name is Fani Abdullah, and also known as fani, 
-Front-end Developer, Back end Developer, and VR/AR Enthusiast from Indonesia. 
+Front-end Developer and VR/AR Enthusiast from Indonesia. 
+and currently I'm interested in learning more about backend developers but after I learned ReachJS & NodeJS hehe
 I'm a College Students at STMIK Tasikmalaya
 <br />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning NodeJS,ReactJS & Laravel
+- 🌱 I’m currently learning NodeJS,ReactJS 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: You may follow me on LinkedIn, Instagram [@fabduul](https://www.instagram.com/fabduul/);
 - What i'm currently working on: My personal website coming soon!
