@@ -13,7 +13,7 @@ and currently I'm interested in learning more about backend developers but after
 <br />
 I'm a College Students at STMIK Tasikmalaya.
 
-<br /> <br /> 
+<br /> 
 
 **Talking about Personal Stuffs:**
 
