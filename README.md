@@ -12,7 +12,7 @@ Front-end Developer and VR/AR Enthusiast from Indonesia.
 and currently I'm interested in learning more about backend developers but after I learned ReachJS & NodeJS hehe. 
 <br />
 I'm a College Students at STMIK Tasikmalaya
- 
+ <br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
