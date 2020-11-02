@@ -40,10 +40,6 @@ I'm a College Students at STMIK Tasikmalaya.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"></code>
 
 
-📈 **My GitHub Stats:**
- <p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faniabdullah&theme=dracula" alt="Fani Abdullah Top Languages Programming" />
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=faniabdullah&show_icons=true&theme=dracula" alt="Fani Abdullah" />
 
 <!--
 **faniabdullah/faniabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
