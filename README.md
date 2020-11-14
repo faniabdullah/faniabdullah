@@ -20,7 +20,7 @@ I'm a College Students at STMIK Tasikmalaya.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning NodeJS,ReactJS 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/fani-abdullah/), Instagram [Instagram](https://www.instagram.com/fabduul/);
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
 - What i'm currently working on: My personal website coming soon!
 
 <br />
