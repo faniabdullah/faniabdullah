@@ -1,7 +1,7 @@
 ### Hi there , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/fani-abdullah/">
-  <img align="left" alt="Fani Abdullah LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Fani Abdullah LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/fabduul/">
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -20,7 +20,7 @@ I'm a College Students at STMIK Tasikmalaya.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning NodeJS,ReactJS 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: You may follow me on LinkedIn, Instagram [@fabduul](https://www.instagram.com/fabduul/);
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/fani-abdullah/), Instagram [Instagram](https://www.instagram.com/fabduul/);
 - What i'm currently working on: My personal website coming soon!
 
 <br />
