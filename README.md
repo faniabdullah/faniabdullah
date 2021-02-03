@@ -8,17 +8,16 @@
 </a>
 <br /> <br />
 Hi there, my name is Fani Abdullah, and also known as fani, 
-Front-end Developer and VR/AR Enthusiast from Indonesia. 
+Mobile Programming Kotlin , Front-end Developer and VR/AR Enthusiast from Indonesia. 
 
 <br />
-I'm a College Students at STMIK Tasikmalaya.
-
+I'm a College Students at STMIK Tasikmalaya and I'm Participant at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
 <br /> 
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning NodeJS,ReactJS 
+- 🌱 I’m currently learning ReactJS , Kotlin 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
 - What i'm currently working on: My personal website coming soon!
