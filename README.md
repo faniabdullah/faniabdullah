@@ -11,7 +11,7 @@ Hi there, my name is Fani Abdullah, and also known as fani,
 Mobile Programming [Kotlin] , Front-end Developer and VR/AR Enthusiast from Indonesia. 
 
 <br />
-I'm a College Students at STMIK Tasikmalaya and I'm Participant at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+I'm a College Students at **STMIK Tasikmalaya** and I'm Participant at **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka**
 <br /> 
 
 **Talking about Personal Stuffs:**
