@@ -12,7 +12,7 @@ Mobile Programming [Kotlin] And Front-end Developer from Indonesia.
 
 <br />
 I'm a College Students at STMIK Tasikmalaya and I'm Participant at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
-<br /> 
+<br /> <br /> 
 
 **Talking about Personal Stuffs:**
 
