@@ -20,7 +20,7 @@ I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile D
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS , Kotlin 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
+- 📫 How to reach me: You may follow me on [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
 <br />
 
 **Languages and Tools:**
