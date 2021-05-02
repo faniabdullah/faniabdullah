@@ -7,11 +7,11 @@
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br /> <br />
-Hi there, my name is Fani Abdullah, and also known as fani, 
+Hi there, my name is Fani Abdullah,
 Mobile Programming [Kotlin] And Front-end Developer from Indonesia. 
 
 <br />
-I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka] (https://grow.google/intl/id_id/bangkit/)
+I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at  [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
 <br /> <br /> 
 
 
