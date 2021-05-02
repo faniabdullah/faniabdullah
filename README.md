@@ -9,9 +9,13 @@
 <br /> <br />
 Hi there, my name is Fani Abdullah,
 Mobile Programming [Kotlin] And Front-end Developer from Indonesia. 
-
 <br />
-I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at  [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
+
+I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at 
+[Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
+
+
+
 <br /> <br /> 
 
 
@@ -20,7 +24,7 @@ I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile D
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS , Kotlin 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: You may follow me on [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
+- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/fani-abdullah/), [Instagram](https://www.instagram.com/fabduul/);
 <br />
 
 **Languages and Tools:**
