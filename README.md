@@ -7,7 +7,7 @@
   <img align="left" alt="Fani Abdullah Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br /> <br />
-Hi there, my name is Fani Abdullah,
+Hi there, Im Fani Abdullah,
 Mobile Programming [Kotlin] And Front-end Developer from Indonesia. 
 <br />
 
