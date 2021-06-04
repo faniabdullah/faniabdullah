@@ -7,7 +7,7 @@ I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile D
 
 
 <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&line_height=21&theme=bluewhite"/>
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21&theme=bluewhite"/>
 
  <br /><br>
 <code><img height="25" src="https://i.imgur.com/NVxEm1A.png"></code>
