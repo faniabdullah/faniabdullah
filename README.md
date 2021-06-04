@@ -1,5 +1,9 @@
-![Linkedin Badge](https://img.shields.io/badge/-faniabdullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fani-abdullah/)
+[![Linkedin Badge][linkedin-shield]][linkedin-url]
 ![android Badge](https://img.shields.io/badge/Android-blue?style=flat-square&logo=android&logoColor=white&link=https://github.com/faniabdullah)
+
+[linkedin-shield]: https://img.shields.io/badge/-faniabdullah-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/fani-abdullah/
+
 <br/>
 Hi there, Im Fani Abdullah, A software engineer focused on 
 Mobile Development , I Love Kotlin and Javascript.<br>
