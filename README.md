@@ -2,9 +2,7 @@
 ![android Badge](https://img.shields.io/badge/Android-blue?style=flat-square&logo=android&logoColor=white&link=https://github.com/faniabdullah)
 <br/>
 Hi there, Im Fani Abdullah, A software engineer focused on 
-Mobile Development , I Love Kotlin and Javascript.
-<br />
-
+Mobile Development , I Love Kotlin and Javascript.<br>
 I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at 
 [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
 
@@ -12,7 +10,7 @@ I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile D
 <a href="">
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
 
- <br>
+ <br /><br>
 <code><img height="25" src="https://i.imgur.com/NVxEm1A.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"></code>
