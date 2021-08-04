@@ -3,7 +3,8 @@
 <br />
 Hi there, Im Fani Abdullah, A software engineer focused on 
 Mobile Development , I Love Kotlin and Javascript.
-I'm a College Students at STMIK Tasikmalaya and I'm Participant Student Mobile Development at [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
+
+I'm a fresh graduate at STMIK Tasikmalaya and Mobile Development Distinction graduate at [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21"/>
