@@ -11,7 +11,6 @@ I'm a fresh graduate at STMIK Tasikmalaya and Mobile Development Distinction gra
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21"/>
 <div>
 
-<img height="140px" src="https://leetcode.card.workers.dev/?username=faniabdullah">
 </div>
 
 
