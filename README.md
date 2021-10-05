@@ -1,13 +1,20 @@
 [![Linkedin Badge][linkedin-shield]][linkedin-url]
 ![android Badge](https://img.shields.io/badge/Android-blue?style=flat-square&logo=android&logoColor=white&link=https://github.com/faniabdullah)
-<br />
-Hi there, Im Fani Abdullah, A software engineer focused on 
-Mobile Development , I Love Kotlin and Javascript.
+<br /><br>
+<img height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39589513">
+
+Hi there, Im Fani Abdullah, A software engineer focused on Mobile Development , I Love Kotlin and Javascript.
+
 
 I'm a fresh graduate at STMIK Tasikmalaya and Mobile Development Distinction graduates at [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)
 
-
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=faniabdullah&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21"/>
+<div>
+
+<img height="140px" src="https://leetcode.card.workers.dev/?username=faniabdullah">
+</div>
+
+
 
  <br /><br>
 <code><img height="25" src="https://i.imgur.com/NVxEm1A.png"></code>
