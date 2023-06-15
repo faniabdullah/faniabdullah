@@ -4,7 +4,7 @@
 <a href="https://www.credential.net/4af93945-5b72-465a-acab-0a33782b07f2">
 <img height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56243347"></a>
 
-<img align="" height='130px' src="https://awesome-github-stats.azurewebsites.net/user-stats/faniabdullah"/>
+<img align="" src="https://awesome-github-stats.azurewebsites.net/user-stats/faniabdullah"/>
 
  <br /><br>
 <code><img height="25" src="https://i.imgur.com/NVxEm1A.png"></code>
